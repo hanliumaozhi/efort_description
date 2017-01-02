@@ -1,0 +1,6 @@
+<package>
+  <description brief="efort_description">efort_description</description>
+  <depend package="gazebo" />
+  <author>me</author>
+  <license>BSD</license>
+</package>
